@@ -1,7 +1,7 @@
 Hello, I am Yeng Sebastian👋
 
 
-**YENG-SEBASTIAN/YENG-SEBASTIAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**As a fervent full-stack developer rooted in Kumasi, welcome to my GitHub profile where my passion for crafting innovative solutions unfolds.
 
 Here are some ideas to get you started:
 About
