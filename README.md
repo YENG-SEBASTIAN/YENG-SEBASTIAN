@@ -10,5 +10,6 @@ A fervent full-stack developer rooted in Kumasi, welcome to my GitHub profile wh
 - 💬 Ask me about Python, JavaScript, React, Dart
 - 📫 How to reach me: yengsebastians@gmail.com
 
-
+Languages
+Python
 
