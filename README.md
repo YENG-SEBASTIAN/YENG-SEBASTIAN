@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Yeng Sebastian</h1>
-<h3>A fervent full-stack developer rooted in Kumasi, welcome to my GitHub profile where my passion for crafting innovative solutions unfolds.</h3>
+<h3>A fervent full-stack developer rooted in Sunyani, welcome to my GitHub profile where my passion for crafting innovative solutions unfolds.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeng-sebastian&label=Profile%20views&color=0e75b6&style=flat" alt="yeng-sebastian" /> </p>
 
