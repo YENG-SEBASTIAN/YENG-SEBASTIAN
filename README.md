@@ -14,7 +14,7 @@
 - 📫 How to reach me **yengsebastians@gmail.com**
 
 - ⚡ Fun fact **The language Python wasn’t named after the snake 🐍, it was actually named after the British comedy show “Monty Python’s Flying Circus.”
-That’s why you’ll see silly examples like spam and eggs in Python docs — it’s a nod to the “Spam” sketch from the show!**
+That’s why you’ll see silly examples like spam and eggs in Python docs, it’s a nod to the “Spam” sketch from the show!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
