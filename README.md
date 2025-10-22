@@ -1,21 +1,20 @@
 <h1>Hi 👋, I'm Yeng Sebastian</h1>
-<h3>A fervent full-stack developer rooted in Sunyani, welcome to my GitHub profile where my passion for crafting innovative solutions unfolds.</h3>
+<h3>A fervent full-stack developer rooted in Sunyani, welcome to my GitHub profile, where my passion for crafting innovative solutions unfolds.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeng-sebastian&label=Profile%20views&color=0e75b6&style=flat" alt="yeng-sebastian" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sabs24272833" target="blank"><img src="https://img.shields.io/twitter/follow/sabs24272833?logo=twitter&style=for-the-badge" alt="sabs24272833" /></a> </p>
 
-- 🔭 I’m currently working on **FEAD-Ghana and HIMS**
-
-- 🌱 I’m currently learning **C# and .NET framwork**
+- 🌱 I’m currently learning **Goland**
 
 - 👯 I’m looking to collaborate on **open source project**
 
-- 💬 Ask me about **Python, JavaScript, React, Dart**
+- 💬 Ask me about **Python, Django Rest, JavaScript, React**
 
 - 📫 How to reach me **yengsebastians@gmail.com**
 
-- ⚡ Fun fact **Coding is the language of the present and future.**
+- ⚡ Fun fact **The language Python wasn’t named after the snake 🐍, it was actually named after the British comedy show “Monty Python’s Flying Circus.”
+That’s why you’ll see silly examples like spam and eggs in Python docs — it’s a nod to the “Spam” sketch from the show!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
