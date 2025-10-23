@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sabs24272833" target="blank"><img src="https://img.shields.io/twitter/follow/sabs24272833?logo=twitter&style=for-the-badge" alt="sabs24272833" /></a> </p>
 
-- 🌱 I’m currently learning **Goland**
+- 🌱 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate on **open source project**
 
