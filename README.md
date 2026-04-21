@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Yeng Sebastian</h1>
 <h3>A fervent full-stack developer, welcome to my GitHub profile, where my passion for crafting innovative solutions unfolds.</h3>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeng-sebastian&label=Profile%20views&color=0e75b6&style=flat" alt="yeng-sebastian" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sabs24272833" target="blank"><img src="https://img.shields.io/twitter/follow/sabs24272833?logo=twitter&style=for-the-badge" alt="sabs24272833" /></a> </p>
