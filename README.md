@@ -35,13 +35,11 @@ I'm a full-stack developer with a backend focus — I care about systems that ar
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" title="MySQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="40" title="SQLite" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="40" title="Bootstrap" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" title="HTML5" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" title="CSS3" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" title="PHP" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" height="40" title=".NET" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" title="C#" />
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" height="40" title="Adobe XD" />
 </p>
 
 ---
@@ -57,16 +55,8 @@ I'm a full-stack developer with a backend focus — I care about systems that ar
 
 ## Contribution calendar
 
-<p align="center">
+<p align="center" style="background-color:#ffffff; padding: 16px; border-radius: 8px;">
   <img src="https://ghchart.rshah.org/1f1f1f/yeng-sebastian" />
-</p>
-
-<p align="center">
-  <img src="https://github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/grass/yeng-sebastian" />
 </p>
 
 ---
