@@ -92,12 +92,10 @@ My focus:
 
 ## 🔥 Streak Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=yeng-sebastian&theme=default&hide_border=true" 
-    alt="Yeng Sebastian GitHub streak stats" 
-  />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeng-sebastian&show_icons=true&locale=en&layout=compact" alt="yeng-sebastian" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeng-sebastian&show_icons=true&locale=en" alt="yeng-sebastian" /></p>
+
 
 ---
 
