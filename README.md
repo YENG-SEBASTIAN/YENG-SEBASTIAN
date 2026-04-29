@@ -75,6 +75,12 @@ Crafting scalable systems, APIs, and intelligent solutions.
 <p align="center">
   <img src="https://ghchart.rshah.org/1f1f1f/yeng-sebastian" />
 </p>
+<p align="center">
+  <img src="https://github-contribution-grid-snake.svg" />
+</p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/grass/yeng-sebastian" />
+</p>
 
 ---
 
