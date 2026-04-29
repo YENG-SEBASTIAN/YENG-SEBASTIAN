@@ -1,32 +1,117 @@
-<h1>Hi 👋, I'm Yeng Sebastian</h1>
-<h3>A fervent full-stack developer, welcome to my GitHub profile, where my passion for crafting innovative solutions unfolds.</h3>
+<h1 align="center">Yeng Sebastian</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeng-sebastian&label=Profile%20views&color=0e75b6&style=flat" alt="yeng-sebastian" /> </p>
+<h3 align="center">
+Building scalable software systems • Full-Stack Developer • Backend & Cloud Enthusiast
+</h3>
 
-<p align="left"> <a href="https://twitter.com/sabs24272833" target="blank"><img src="https://img.shields.io/twitter/follow/sabs24272833?logo=twitter&style=for-the-badge" alt="sabs24272833" /></a> </p>
-
-- 🌱 I’m currently working on **RentShive**
-
-- 👯 I’m looking to collaborate on **open source project**
-
-- 💬 Ask me about **Python, Django Rest, JavaScript, React**
-
-- 📫 How to reach me **yengsebastians@gmail.com**
-
-- ⚡ Fun fact **The language Python wasn’t named after the snake 🐍, it was actually named after the British comedy show “Monty Python’s Flying Circus.”
-That’s why you’ll see silly examples like spam and eggs in Python docs, it’s a nod to the “Spam” sketch from the show!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sabs24272833" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabs24272833" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yeng-sebastian-26a9b520b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeng-sebastian-26a9b520b" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yeng-sebastian&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Cloud-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Code-Clean%20Architecture-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Builder-%F0%9F%9A%80%20Systems%20Thinker-black?style=flat-square" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeng-sebastian&show_icons=true&locale=en&layout=compact" alt="yeng-sebastian" /></p>
+## 🚀 About
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeng-sebastian&show_icons=true&locale=en" alt="yeng-sebastian" /></p>
+I’m a full-stack developer focused on **building scalable backend systems, APIs, and modern web applications**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeng-sebastian&" alt="yeng-sebastian" /></p>
+I care deeply about:
+- System design & scalability  
+- Clean architecture & maintainable code  
+- Cloud infrastructure (AWS, Docker, ECS)  
+- Building real-world products that solve real problems  
+
+---
+
+## 🧠 Tech Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" height="40"/>
+</p>
+
+---
+
+## 🏗️ Engineering Focus
+
+- ⚙️ Backend Architecture (Django, REST APIs)
+- ☁️ Cloud Deployments (AWS ECS, ECR, ALB, S3)
+- 🐳 Containerization (Docker, CI/CD pipelines)
+- 🔐 Secure system design & environment management
+- ⚡ Performance optimization & scalable API design
+
+---
+
+## 📦 Featured Work
+
+> _Selected systems and projects I’ve built and deployed_
+
+- 🔹 **ECS-Based Backend Infrastructure**  
+  Scalable containerized backend deployed using AWS ECS, ECR, ALB, and Secrets Manager.
+
+- 🔹 **Authentication & Authorization System**  
+  Secure Django-based auth system with environment-driven configuration.
+
+- 🔹 **API-Driven Backend Architecture**  
+  Modular REST APIs designed for frontend scalability (React/Next.js).
+
+- 🔹 **Cloud Deployment Pipelines**  
+  Dockerized deployment workflow integrated with AWS infrastructure.
+
+---
+
+## 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yeng-sebastian&show_icons=true&theme=default" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeng-sebastian&layout=compact" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeng-sebastian" height="170"/>
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="left">
+  <a href="https://twitter.com/sabs24272833">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/yeng-sebastian-26a9b520b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:yengsebastians@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+Python 🐍 wasn’t named after the snake—it was inspired by *“Monty Python’s Flying Circus”*.  
+That’s why Python documentation has such funny examples 😄
+
+---
+
+## 🚀 Philosophy
+
+> “Build systems that don’t just work — build systems that scale, survive, and evolve.”
+
+---
+
+<p align="center">
+  <b>Thanks for visiting 🚀</b>
+</p>
