@@ -90,6 +90,17 @@ My focus:
 
 ---
 
+## 🔥 Streak Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=yeng-sebastian&theme=default&hide_border=true" 
+    alt="Yeng Sebastian GitHub streak stats" 
+  />
+</p>
+
+---
+
 ## 🌐 Connect
 
 <p align="left">
