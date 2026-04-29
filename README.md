@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yeng Sebastian</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Yeng+Sebastian;Building+Scalable+Systems;Backend+%7C+Cloud+%7C+AI" />
+</p>
 
 <h3 align="center">
-Building scalable products, APIs, and intelligent systems.
+Crafting scalable systems, APIs, and intelligent solutions.
 </h3>
 
 <p align="center">
@@ -12,10 +14,11 @@ Building scalable products, APIs, and intelligent systems.
 
 ## 🚀 About Me
 
-- 💡 Full-stack developer focused on **real-world, production-ready systems**
-- ⚙️ Strong in backend architecture, APIs, and cloud deployments
-- 🌍 Building scalable platforms and AI-powered systems
-- 🤝 Open to collaboration on meaningful projects
+- 💡 Full-stack developer focused on **production-ready systems**
+- ⚙️ Strong in **backend architecture & API design**
+- ☁️ Experienced with **AWS (ECS, ECR, RDS, S3) deployments**
+- 🤖 Integrating **AI into real-world applications**
+- 🤝 Open to collaborations that solve meaningful problems
 
 ---
 
@@ -56,11 +59,8 @@ Python 🐍 was named after *“Monty Python’s Flying Circus”* — not the s
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeng-sebastian&show_icons=true&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeng-sebastian&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yeng-sebastian&show_icons=true&theme=default&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeng-sebastian&theme=default&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -68,7 +68,7 @@ Python 🐍 was named after *“Monty Python’s Flying Circus”* — not the s
 ## 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/yeng-sebastian" />
+  <img src="https://ghchart.rshah.org/00ff00/yeng-sebastian" />
 </p>
 
 ---
@@ -76,7 +76,7 @@ Python 🐍 was named after *“Monty Python’s Flying Circus”* — not the s
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeng-sebastian&theme=github-light&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeng-sebastian&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -85,9 +85,9 @@ Python 🐍 was named after *“Monty Python’s Flying Circus”* — not the s
 
 - Designing **clean backend architectures**
 - Building **scalable APIs**
-- Deploying with **AWS (ECS, ECR, RDS, S3)**
+- Shipping **production-ready systems**
 - Integrating **AI into real applications**
-- Writing **maintainable code**
+- Writing **maintainable, testable code**
 
 ---
 
