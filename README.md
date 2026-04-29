@@ -1,126 +1,114 @@
-<h1 align="center">Yeng Sebastian</h1>
+<h1 align="center">Hi 👋, I'm Yeng Sebastian</h1>
 
 <h3 align="center">
-Full-Stack Developer • Backend Systems • Cloud & Scalable Architecture
+Building scalable products, APIs, and intelligent systems.
 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yeng-sebastian&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Cloud-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Architecture-Clean%20%26%20Scalable-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Builder-Systems%20Thinker-black?style=flat-square" />
 </p>
 
 ---
 
-## 🚀 About
+## 🚀 About Me
 
-I build **robust backend systems, APIs, and cloud-driven applications** designed to scale.
-
-My focus:
-- ⚙️ Designing clean and maintainable architectures  
-- ☁️ Deploying real-world systems on AWS (ECS, ECR, ALB, S3)  
-- 🐳 Containerizing applications with Docker  
-- 🔐 Secure environment & configuration management  
-- ⚡ Writing efficient, production-ready code  
+- 💡 Full-stack developer focused on **real-world, production-ready systems**
+- ⚙️ Strong in backend architecture, APIs, and cloud deployments
+- 🌍 Building and experimenting with scalable platforms and AI-driven systems
+- 🤝 Open to collaboration on meaningful and impactful projects
 
 ---
 
-## 🧠 Tech Stack
+## 💬 Ask Me About
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
-</p>
-
----
-
-## 🏗️ Engineering Focus
-
-- Backend Architecture (Django, REST APIs)
-- Cloud Infrastructure (AWS ECS, ECR, ALB, S3)
-- Containerization & Deployment (Docker, CI/CD)
-- Secure configuration & secrets management
-- Performance & scalability optimization
-
----
-
-## 📦 Featured Work
-
-- 🔹 **Cloud-Native Backend Infrastructure**  
-  Containerized backend deployed using AWS ECS, ECR, ALB, and Secrets Manager  
-
-- 🔹 **Authentication System**  
-  Secure Django-based authentication with scalable architecture  
-
-- 🔹 **API-Driven Systems**  
-  Designed modular APIs for frontend scalability (React / Next.js)  
-
-- 🔹 **Deployment Pipelines**  
-  Automated Docker-based workflows for production environments  
-
----
-
-## 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeng-sebastian&show_icons=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeng-sebastian&layout=compact" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeng-sebastian" height="170"/>
-</p>
-
----
-
-## 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeng-sebastian&theme=github-compact" />
-</p>
-
----
-
-## 🌐 Connect
-
-<p align="left">
-  <a href="https://twitter.com/sabs24272833">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-
-  <a href="https://linkedin.com/in/yeng-sebastian-26a9b520b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:yengsebastians@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+**Python, Django REST Framework, JavaScript, Next.js, React**
 
 ---
 
 ## ⚡ Fun Fact
 
-Python 🐍 wasn’t named after the snake — it was inspired by *Monty Python’s Flying Circus*.  
-That’s why Python docs sometimes feel like a comedy show 😄
+Python 🐍 was named after *“Monty Python’s Flying Circus”* — not the snake 😄  
+(That’s why you see things like “spam & eggs” in examples)
 
 ---
 
-## 🚀 Philosophy
-
-> Build systems that don’t just work — build systems that scale, survive, and evolve.
-
----
+## 🛠️ Tech Stack
 
 <p align="center">
-  <b>Thanks for visiting 🚀</b>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" height="40" />
 </p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yeng-sebastian&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeng-sebastian&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/yeng-sebastian" alt="Yeng Sebastian Contribution Chart"/>
+</p>
+
+> Each square represents a day of contributions — consistency over intensity.
+
+---
+
+## 📈 Activity Graph (Daily Commits Visualization)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeng-sebastian&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🧠 What I Focus On
+
+- Designing **clean backend architectures**
+- Building **scalable APIs (Django / DRF)**
+- Shipping **production-ready systems with AWS (ECS, ECR, RDS, S3)**
+- Integrating **AI into real applications**
+- Writing **maintainable, testable code**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://twitter.com/sabs24272833">
+    <img src="https://img.shields.io/twitter/follow/sabs24272833?logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/yeng-sebastian-26a9b520b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## 🧭 Philosophy
+
+> Stay consistent when it’s boring — that’s where most people quit.
+
+---
