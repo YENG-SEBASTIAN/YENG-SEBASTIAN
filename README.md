@@ -28,9 +28,14 @@ Crafting scalable systems, APIs, and intelligent solutions.
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Fun Fact + Philosophy
 
-Python 🐍 was named after *“Monty Python’s Flying Circus”* — not the snake 😄
+> Python 🐍 was named after *“Monty Python’s Flying Circus”* — not the snake 😄  
+> That’s why you’ll see funny things like **spam, eggs, and absurd examples** in Python tutorials.
+
+<br>
+
+> 🧭 **Stay consistent when it’s boring — that’s where most people quit.**
 
 ---
 
@@ -68,7 +73,7 @@ Python 🐍 was named after *“Monty Python’s Flying Circus”* — not the s
 ## 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00ff00/yeng-sebastian" />
+  <img src="https://ghchart.rshah.org/1f1f1f/yeng-sebastian" />
 </p>
 
 ---
@@ -76,7 +81,7 @@ Python 🐍 was named after *“Monty Python’s Flying Circus”* — not the s
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeng-sebastian&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeng-sebastian&theme=github-light&hide_border=true" />
 </p>
 
 ---
@@ -101,11 +106,5 @@ Python 🐍 was named after *“Monty Python’s Flying Circus”* — not the s
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
-
----
-
-## 🧭 Philosophy
-
-> Stay consistent when it’s boring — that’s where most people quit.
 
 ---
