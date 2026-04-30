@@ -53,14 +53,6 @@ I'm a full-stack developer with a backend focus — I care about systems that ar
 
 ---
 
-## Contribution calendar
-
-<p align="center" style="background-color:#ffffff; padding: 16px; border-radius: 8px;">
-  <img src="https://ghchart.rshah.org/216e39/yeng-sebastian" />
-</p>
-
----
-
 ## Activity graph
 
 <p align="center">
