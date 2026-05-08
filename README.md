@@ -47,7 +47,6 @@ I'm a full-stack developer with a backend focus — I care about systems that ar
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeng-sebastian&show_icons=true&theme=default&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeng-sebastian&theme=default&hide_border=true" height="170"/>
 </p>
 
