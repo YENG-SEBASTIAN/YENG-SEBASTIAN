@@ -24,10 +24,6 @@ I'm a full-stack developer with a backend focus — I care about systems that ar
 
 ---
 
-
-
-
-
 ## Tech stack
 
 <p align="center">
