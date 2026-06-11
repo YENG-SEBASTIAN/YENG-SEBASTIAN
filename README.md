@@ -16,7 +16,7 @@
 
 I'm a full-stack developer with a backend focus — I care about systems that are well-architected, easy to maintain, and built to scale. Most of my work lives at the intersection of backend engineering, cloud infrastructure, and AI integration.
 
-- Backend architecture & REST API design with **NodeJS, Python / Django REST Framework**
+- Backend architecture & REST API design with **Node.JS, Python / Django REST Framework**
 - Cloud deployments on **AWS** — ECS, ECR, RDS, S3
 - Full-stack delivery with **Next.js, React, and JavaScript**
 - Integrating **AI and ML** into production applications
