@@ -4,8 +4,6 @@
 </p>
 
 
-
-
 <p align="center">
   Crafting scalable systems, clean APIs, and intelligent solutions — one commit at a time.
 </p>
