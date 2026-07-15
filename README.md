@@ -13,9 +13,6 @@
 
 ---
 
-
-
-
 ## About me
 
 I'm a full-stack developer with a backend focus — I care about systems that are well-architected, easy to maintain, and built to scale. Most of my work lives at the intersection of backend engineering, cloud infrastructure, and AI integration.
