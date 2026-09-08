@@ -2,11 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Yeng+Sebastian;Building+Scalable+Systems;Backend+%7C+Cloud+%7C+AI" />
 </p>
 
-
 <p align="center">
   Crafting scalable systems, clean APIs, and intelligent solutions — one commit at a time.
 </p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yeng-sebastian&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -14,32 +12,21 @@
 
 ---
 
-
 ## About me
 
 I'm a full-stack developer with a backend focus — I care about systems that are well-architected, easy to maintain, and built to scale. Most of my work lives at the intersection of backend engineering, cloud infrastructure, and AI integration.
 
-- Backend architecture & REST API design with **Node.JS, Python / Django REST Framework**
-- Cloud deployments on **AWS** — ECS, ECR, RDS, S3
-- Full-stack delivery with **Next.js, React, and JavaScript**
+- Backend architecture & REST API design with **Node.js, Python / Django REST Framework**
+- Cloud deployments on **AWS** — EC2, ECS, ECR, RDS, S3, IAM, VPC, CloudWatch, etc.
+- Full-stack delivery with **Next.js, React, and TypeScript**
+- Multi-tenant SaaS architecture — tenant scoping, tiered permissions, role-based access
 - Integrating **AI and ML** into production applications
+- Containerized, production-grade deployments with **Docker** and **Nginx** reverse proxying
 - Open to collaborations that tackle real, meaningful problems
 
 ---
 
 ## Tech stack
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" title="Python" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40" title="Django" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40" title="Next.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" title="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" title="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" title="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" title="CSS3" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" title="Python" />
@@ -81,9 +68,9 @@ I'm a full-stack developer with a backend focus — I care about systems that ar
 
 ## What I focus on
 
-- Designing clean, layered backend architectures
+- Designing clean, layered backend architectures where the backend owns all business logic
 - Building APIs that are predictable and easy to consume
-- Shipping systems that hold up in production
+- Shipping systems that hold up in production — proper containerization, health checks, and deployment hygiene
 - Writing code that future-me (and teammates) can actually read
 - Finding the right places to bring AI into real workflows
 
@@ -91,7 +78,7 @@ I'm a full-stack developer with a backend focus — I care about systems that ar
 
 ## Ask me about
 
-**Python · Django REST Framework · JavaScript · Next.js · React · AWS · API design**
+**Python · Django REST Framework · JavaScript/TypeScript · Next.js · React · AWS · Docker · Multi-tenant SaaS architecture · API design**
 
 ---
 
