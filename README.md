@@ -53,7 +53,13 @@ I'm a full-stack developer with a backend focus — I care about systems that ar
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" title="MySQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" height="40" title="Redis" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" height="40" title="RabbitMQ" />
+  <img src="https://cdn.worldvectorlogo.com/logos/celery.svg" height="40" title="Celery" />
+  <img src="https://avatars.githubusercontent.com/u/45455332" height="40" title="BullMQ" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="40" title="Nginx" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gunicorn/gunicorn-original.svg" height="40" title="Gunicorn" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" title="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" title="Linux" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" title="HTML5" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" title="CSS3" />
 </p>
